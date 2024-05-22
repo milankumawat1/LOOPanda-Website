@@ -427,3 +427,7 @@
     clBackToTop();
   })();
 })(jQuery);
+
+document.getElementById('myIcon').addEventListener('click', function() {
+  window.location.href = 'https://www.morganprestwich.com/';
+});

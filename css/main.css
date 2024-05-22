@@ -68,6 +68,9 @@ html {
   }
 }
 
+.icon-link{
+  cursor: pointer;
+}
 html,
 body {
   height: 100%;
